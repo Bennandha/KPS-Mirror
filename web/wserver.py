@@ -80,14 +80,14 @@ rawindexpage = '''
 </head>
 
 <body>
-    <!--© Designed and coded by @bipuldey19-Telegram-->
+    <!--© Designed and Coded by @Nanthakps-->
     <header>
         <div class="brand">
             <img src="https://graph.org/file/43af672249c94053356c7.jpg" alt="logo" />
         </div>
         <h2 class="name">Qbittorrent Selection</h2>
         <div class="social">
-            <a href="https://telegram.me/Z_Mirror"><i class="fab fa-telegram"></i></a>
+            <a href="https://telegram.me/Nanthakps"><i class="fab fa-telegram"></i></a>
         </div>
     </header>
     <!-- pin_entry -->
